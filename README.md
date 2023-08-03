@@ -16,4 +16,4 @@ There are number of reasons why and, I'll list few of them here
 
 ## if you have an image online we got you covered too!
 
-![Alt text](https://pixabay.com/photos/birds-brown-pelicans-wildlife-waves-8157789/)
+<img title="a title" alt="Alt text" src="https://pixabay.com/photos/birds-brown-pelicans-wildlife-waves-8157789/">
