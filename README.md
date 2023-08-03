@@ -11,9 +11,17 @@ There are number of reasons why and, I'll list few of them here
 - for example this one
 - and i can go on forever
 
+---
+
 ## We can add Links and Images to do the same.
 [visit GitHub](https://github.com/anjalisoni19)
 
-## if you have an image online we got you covered too!
+---
 
-[![Alt text](https://pixabay.com/photos/birds-brown-pelicans-wildlife-waves-8157789/)](https://pixabay.com/)
+## we can also include code snippets 
+```python
+def hello_world():
+  print("Hello, world!")
+```
+## the end
+> thank you 
