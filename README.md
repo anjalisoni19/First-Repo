@@ -15,5 +15,5 @@ There are number of reasons why and, I'll list few of them here
 [visit GitHub](https://github.com/anjalisoni19)
 
 ## if you have an image online we got you covered too!
-![Image Alt Text](https://unsplash.com/@synkevych)
-![Image Alt Text](https://unsplash.com/photos/oRNIIXf3YlQ)
+
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
