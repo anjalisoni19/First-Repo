@@ -7,3 +7,13 @@ There are number of reasons why and, I'll list few of them here
 1. The markdown makes it easier for the people using git to understand what the code is all about.
 2. There are set of equipments to make the text look engaging and attractive.
 3. As you can find our with this list feature. Though we have Unordered lists as well
+
+- for example this one
+- and i can go on forever
+
+## We can add Links and Images to do the same.
+[visit GitHub](https://github.com/anjalisoni19)
+
+## if you have an image online we got you covered too!
+
+![Image Alt Text](https://unsplash.com/photos/wX2L8L-fGeA)
